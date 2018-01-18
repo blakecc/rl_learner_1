@@ -1,0 +1,1 @@
+Building on Andrej Karpathy's Pong learning algorithm. Intention to eventually build a policy gradient learner with either Keras or TensorFlow learning, and incorporate an evolutionary algorithm to find optimal neural network structures.
